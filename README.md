@@ -1,6 +1,6 @@
-# Hi, I'm Ahmad Wisal 👋
+# Hi, I'm  Wisal 👋
 
-Computer Science student and aspiring full-stack developer focused on building responsive web experiences and practical web apps. I enjoy combining clean UI with robust backend logic and continuously improving my craft.
+Full Stack Developer focused on building responsive web applications and scalable user experiences. Skilled in combining clean UI with robust backend logic, with a strong emphasis on code quality, performance, and continuous improvement.
 
 ## 🚀 Featured Projects
 
