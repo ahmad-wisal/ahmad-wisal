@@ -27,3 +27,9 @@ Full Stack Developer focused on building responsive web applications and scalabl
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmad-wisal&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-wisal&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+## 🐍 Contribution Snake
+
+<p>
+  <img src="https://raw.githubusercontent.com/ahmad-wisal/ahmad-wisal/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</p>
