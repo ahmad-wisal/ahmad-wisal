@@ -1,6 +1,6 @@
 # Hi, I'm  Wisal 👋
 
-Full Stack Developer focused on building responsive web applications and scalable user experiences. Skilled in combining clean UI with robust backend logic, with a strong emphasis on code quality, performance, and continuous improvement.
+Full Stack Developer focused on building responsive web applications and scalable user experiences. Skilled in combining clean UI with robust backend logic, with a strong emphasis on code quality, performance, and maintainability.
 
 ## 🚀 Featured Projects
 
@@ -14,6 +14,8 @@ Full Stack Developer focused on building responsive web applications and scalabl
   Node.js/Express app with authentication, CRUD posts, EJS views, JWT cookies, and SQLite storage.
 - **[React News App](https://github.com/ahmad-wisal/REACT-NEWS-APP)**  
   React + Vite app structure for news browsing with reusable components and pagination.
+- **[Techora](https://github.com/ahmad-wisal/techora)**  
+  JavaScript project scaffold for building and expanding the Techora application.
 
 ## 🛠️ Tech Stack
 
